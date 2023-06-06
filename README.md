@@ -13,12 +13,12 @@ pip3 install discord
 ```
 <br>
 
-# Edit config.ini
+## Edit config.ini
 Place your token where the file instructs
 
 <br>
 
-# Running the Bot
+## Running the Bot
 ```
 python3 main.py
 ```
