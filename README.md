@@ -6,7 +6,6 @@ Config Parser
 ```
 pip3 install configparser
 ```
-
 Discord
 ```
 pip3 install discord
@@ -14,10 +13,8 @@ pip3 install discord
 <br>
 
 ## Edit config.ini
-Place your token where the file instructs
-
-<br>
-
+Place your token where the file instructs  
+<br>  
 ## Running the Bot
 ```
 python3 main.py
